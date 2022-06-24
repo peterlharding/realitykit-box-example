@@ -1,3 +1,25 @@
+
+# IDEs
+*.vscode/
+*.idea/
+
+# macOS
+.DS_Store
+
+# Archives
+*.tar
+*.gz
+*.tz
+*.zip
+*.rar
+
+# Just Ignore
+*.x
+*.ignore
+
+# Various Junk
+*.log
+
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
@@ -88,3 +110,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
